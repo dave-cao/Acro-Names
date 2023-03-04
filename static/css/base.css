@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "BlackChancery";
+  src: url("../assets/Classizismantiquabook-MLGe.ttf");
+}
+
+@font-face {
+  font-family: "IMFell";
+  src: url("../assets/IMFellEnglish-Regular.ttf");
+}
+
+h1 {
+  font-family: "IMFell", serif;
+  font-size: 5rem;
+}
+
+body {
+  background-color: #1c1c1c;
+  color: #ffffff;
+  font-family: "IMFell", sans-serif;
+}
+
+footer .foot-icon {
+  color: #292929;
+}

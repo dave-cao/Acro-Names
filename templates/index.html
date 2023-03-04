@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block title %}Acro Names{% endblock %}
+
+{% block styles %}
+    <link rel="stylesheet" href="{{ url_for("static", filename="css/home.css") }}">
+{% endblock %}
+
+{% block content %}
+
+    <div class="dragon">
+        <h1>Acro Names</h1>
+    </div>
+
+    <div class="container">
+        <form method="post" enctype="multipart/form-data">
+            <div class="input-group mb-3">
+                <input id="acro-name" class="form-control" type="text" name="acro-name" placeholder="Enter an acronym">
+                <div class="input-group-append">
+                    <button class="btn btn-dark" type="submit">Search</button>
+                </div>
+            </div>
+        </form>
+
+        <a class="btn btn-warning" href="{{ url_for("random_acronym") }}">Get Random</a>
+        <a class="btn btn-warning" href="{{ url_for("download_acronyms") }}">Download all Acronyms</a>
+
+        {% if not acronym %}
+            <div class="card">
+                <div class="card-header">
+                    <h2>Welcome to Acro Names</h2>
+                </div>
+                <div class="card-body">
+                    <p>Are you tired of feeling lost in a sea of acronyms? Do you struggle to keep up with the latest lingo, leaving you feeling like a boomer trying to navigate TikTok? Fear not, my friend! Introducing Acro Names, the project that will save you from embarrassment and confusion. Simply enter any acronym that has you stumped, and Acro Names will provide you with a full description. It's like having a personal translator for the acronym language. Don't let your lack of acronym knowledge hold you back any longer!</p>
+                </div>
+            </div>
+        {% else %}
+            <div class="card">
+                <div class="card-header">
+                    <h3>{{ acronym.name }}</h3>
+                </div>
+                <div class="card-body">
+                    <p>{{ acronym.description }}</p>
+                </div>
+            </div>
+        {% endif %}
+    </div>
+
+    {% block scripts %}
+       <script src="{{ url_for("static", filename="js/home.js") }}"></script>
+    {% endblock %}
+
+{% endblock %}

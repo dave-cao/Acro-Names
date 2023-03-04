@@ -1,0 +1,49 @@
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.card {
+  background-color: #292929;
+  border: none;
+}
+
+.card-header {
+  background-color: #6b5b95;
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.card-body {
+  padding: 20px;
+  font-size: 25px;
+}
+
+.btn {
+  background-color: #ff6f61;
+  border: none;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background-color: #ffcc5c;
+  color: #1c1c1c;
+}
+
+.dragon {
+  background-image: url("../assets/dragon.png");
+  background-repeat: no-repeat;
+  background-size: 600px;
+  height: 500px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 200px;
+  font-weight: bold;
+  margin: 5px;
+}
