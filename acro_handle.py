@@ -18,7 +18,7 @@ class Acro_Handle:
         # turn acronym list into dictionary
         acronym_dict = {}
         for acronym in acronym_list:
-            acronym_name, acronym_description = acronym.split("-")
+            acronym_name, acronym_description = acronym.split(":")
             acronym_dict[acronym_name] = acronym_description
 
         return acronym_dict

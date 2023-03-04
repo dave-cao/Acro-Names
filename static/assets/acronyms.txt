@@ -1,121 +1,205 @@
-LOL-Laughing out loud
-ASAP-As soon as possible
-FYI-For your information
-G2G-Got to go
-FB-Facebook
-MSG-Message
-TTYL-Talk to you later
-IMO-In my opinion
-PAW-Parents are watching
-PITR-Parent in the room
-PBB-Parent behind back
-POMS-Parent over my shoulder
-KPC-Keeping parents clueless
-PAH-Parent at home.
-TFW-That feeling when. TFW internet slang often goes in a caption to an image.
-MFW-My face when
-MRW-My reaction when
-IFYP-I feel your pain
-LOL-Laughing out loud
-TNTL-Trying not to laugh
-JK-Just kidding
-IDC-I don’t care
-ILY-I love you
-IMU-I miss you
-ADIH-Another day in hell
-IDC-I don’t care
-ZZZ-Sleeping, bored, tired
-WYWH-Wish you were here
-TIME-Tears in my eyes
-BAE-Before anyone else
-SSDD-Same stuff, different day
-QQ-Crying
-FIMH-Forever in my heart
-BSAAW-Big smile and a wink
-BWL-Bursting with laughter
-LMAO-Laughing my a** off
-BF-Best friends forever
-CSL-Can’t stop laughing
-IMO-In my humble opinion 
-IMHO-In my humble opinion
-OMDB-Over my dead body
-NTH-Nice to have. what does nth mean in texting messaging
-POV-Point of View
-TBH-To be honest
-FTW-For the win
-WTF-What the f***
-FTL-For the loss
-YNK-You never know
-SMH-Shaking my head
-SRSLY-Seriously
-YGTR-You got that right
-GMTA-Great minds think alike
-AYMM-Are you my mother?
-CWOT-Complete waste of time
-AFAIK-As far as I know
-AFAIR-As far as I remember
-AFAIC-As far as I’m concerned
-ASL-Age, sex, location
-AAMOF-As a matter of fact
-FWIW-For what it’s worth
-YMMV-Your mileage may vary
-IIRC-If I remember correctly
-DM-Direct message
-AFAICT-As far as I can tell
-TL;DR-Too long; didn’t read
-IRL-In real life
-TIL-Today I learned
-SOML-Story of my life. What does SOML mean in texting? Most likely a person compares another person’s story with own situation.
-EMBM-Early morning business meeting
-J4F-Just for fun
-JSYK-Just so you know
-FAWC-For anyone who cares
-RLRT-Real life retweet
-OH-Overheard
-WUZUP-What’s up?
-CS-Career suicide
-DWH-During work hours
-NSFW-Not safe for work
-NSFL-Not safe for life
-SFW-Safe for work
-GRAS-Generally recognised as safe
-NBD-Not big deal
-OC-Original content
-4AO-For adults only
-OP-Original poster
-PPL-People
-ICYMI-In case you missed it
-JIC-Just in case
-NAGI-Not a good idea
-GOI-Get over it
-RBTL-Read between the lines
-AYOR-At your own risk
-DIY-Do it yourself
-E123-Easy as one, two, three
-GAHOY-Get a hold of yourself
-TMB-Tweet me back
-WTPA-Where the party at?
-DAE-Does anyone else?
-PRT-Please retweet
-PTB-Please text back
-TIA-Thanks in advance
-BUMP-Bring up my post
-OMW-On my way
-GRATZ-Congratulations
-GL-Good luck
-IDK-I don’t know
-TTYL-Talk to you later
-BRB-Be right back
-W8-Wait
-NFS-Not for sale
-B4N-Bye for now
-B@U-Back at you
-BBBG-Bye bye be good
-BBIAS-Be back in a sec
-RUOK-Are you OK?
-CYT-See you tomorrow
-DBMIB-Don’t bother me I’m busy
-DM-Direct message
-GFN-Gone for now
-AFK-Away from keyboard
-IYKYK-If you know you know
+LOL:Laughing out loud. *someone says something funny* LOL
+ASAP:As soon as possible. I will get there ASAP.
+FYI:For your information. FYI, I actually have 200 IQ
+G2G:Got to go. Alright, G2G!
+FB:Facebook. I'm a boomer who still has a FB account.
+MSG:Message. MSG me later.
+TTYL:Talk to you later
+IMO:In my opinion
+PAW:Parents are watching
+PITR:Parent in the room
+PBB:Parent behind back
+POMS:Parent over my shoulder
+KPC:Keeping parents clueless
+PAH:Parent at home.
+TFW:That feeling when. TFW internet slang often goes in a caption to an image.
+MFW:My face when
+MRW:My reaction when
+IFYP:I feel your pain
+LOL:Laughing out loud
+TNTL:Trying not to laugh
+JK:Just kidding
+IDC:I don’t care
+ILY:I love you
+IMU:I miss you
+ADIH:Another day in hell
+IDC:I don’t care
+ZZZ:Sleeping, bored, tired
+WYWH:Wish you were here
+TIME:Tears in my eyes
+BAE:Before anyone else
+SSDD:Same stuff, different day
+QQ:Crying
+FIMH:Forever in my heart
+BSAAW:Big smile and a wink
+BWL:Bursting with laughter
+LMAO:Laughing my a** off
+BF:Best friends forever
+CSL:Can’t stop laughing
+IMO:In my humble opinion 
+IMHO:In my humble opinion
+OMDB:Over my dead body
+NTH:Nice to have. what does nth mean in texting messaging
+POV:Point of View
+TBH:To be honest
+FTW:For the win
+WTF:What the f***
+FTL:For the loss
+YNK:You never know
+SMH:Shaking my head
+SRSLY:Seriously
+YGTR:You got that right
+GMTA:Great minds think alike
+AYMM:Are you my mother?
+CWOT:Complete waste of time
+AFAIK:As far as I know
+AFAIR:As far as I remember
+AFAIC:As far as I’m concerned
+ASL:Age, sex, location
+AAMOF:As a matter of fact
+FWIW:For what it’s worth
+YMMV:Your mileage may vary
+IIRC:If I remember correctly
+DM:Direct message
+AFAICT:As far as I can tell
+TL;DR:Too long; didn’t read
+IRL:In real life
+TIL:Today I learned
+SOML:Story of my life. What does SOML mean in texting? Most likely a person compares another person’s story with own situation.
+EMBM:Early morning business meeting
+J4F:Just for fun
+JSYK:Just so you know
+FAWC:For anyone who cares
+RLRT:Real life retweet
+OH:Overheard
+WUZUP:What’s up?
+CS:Career suicide
+DWH:During work hours
+NSFW:Not safe for work
+NSFL:Not safe for life
+SFW:Safe for work
+GRAS:Generally recognised as safe
+NBD:Not big deal
+OC:Original content
+4AO:For adults only
+OP:Original poster
+PPL:People
+ICYMI:In case you missed it
+JIC:Just in case
+NAGI:Not a good idea
+GOI:Get over it
+RBTL:Read between the lines
+AYOR:At your own risk
+DIY:Do it yourself
+E123:Easy as one, two, three
+GAHOY:Get a hold of yourself
+TMB:Tweet me back
+WTPA:Where the party at?
+DAE:Does anyone else?
+PRT:Please retweet
+PTB:Please text back
+TIA:Thanks in advance
+BUMP:Bring up my post
+OMW:On my way
+GRATZ:Congratulations
+GL:Good luck
+IDK:I don’t know
+TTYL:Talk to you later
+BRB:Be right back
+W8:Wait
+NFS:Not for sale
+B4N:Bye for now
+B@U:Back at you
+BBBG:Bye bye be good
+BBIAS:Be back in a sec
+RUOK:Are you OK?
+CYT:See you tomorrow
+DBMIB:Don’t bother me I’m busy
+DM:Direct message
+GFN:Gone for now
+AFK:Away from keyboard
+IYKYK:If you know you know
+YONO:You only need one
+FRFRNCOS:For real for real no cap on a stack
+FR:For real
+FOMO:Fear of missing out.
+AM:Ante meridiem. This means "before noon".
+PM:Post meridiem. This means "after noon".
+BOGO:Buy one, get one
+BOPUS:Buy online, pick up in store
+ICYMI:An abbreviation meaning “in case you missed it”
+FOMO:Fear of missing out
+FWIW:An abbreviation meaning “for what it’s worth”
+LASER:Light amplification by stimulated emission of radiation
+ELI5:Explain like I'm 5.
+P.S.:An abbreviation for “postscript”
+PIN:Personal identification number
+RADAR:Radio detecting and ranging
+RIP:Rest in peace (this can also be an initialism, as some people say “r” “i” “p”)
+SCUBA:Self-contained underwater breathing apparatus
+SMART:Specific, measurable, attainable, realistic, timebound (commonly used when setting goals)
+SNAFU:Situation normal, all fouled up
+SOHCAHTOA:Acronym used in mathematics to remember the trigonometric functions sine, cosine, and tangent.
+SONAR:Sound navigation and ranging
+SOS:Commonly assumed to stand for “save our ship”, but technically, the international distress signal doesn’t stand for anything
+TASER:Tom A. Swift Electric Rifle
+VIN:Vehicle identification number
+WD:40-Water Displacement, 40th formula
+YOLO:You only live once
+ZIP:Zone improvement plan
+AJAX:Asynchronous JavaScript And XML
+CAPTCHA:Completely Automated Public Turing Test to tell Computers and Humans Apart
+CD:ROM-Compact Disc Read-Only Memory
+DVD:Digital Versatile Disc
+Fios:Fiber Optic Service
+GIF:Graphics Interchange Format
+JPEG:Joint Photographic Experts Group
+JSON:JavaScript Object Notation
+PNG:Portable Network Graphics
+RAM:Random Access Memory
+SIM:Subscriber Identity Module (as in a SIM card)
+URL:An initialism that stands for “Uniform Resource Locator”
+WiFi:An abbreviation commonly thought to stand for “Wireless Fidelity”, but technically, it doesn’t stand for anything
+AWOL:Absent without leave
+CONUS:The Continental United States
+FEMA:Federal Emergency Management Agency
+FLOTUS:First Lady of the United States
+FOIA:Freedom of Information Act
+HIPAA:Health Insurance Portability and Accountability Act of 1996
+HUD:Department of Housing and Urban Development
+ICE:Immigration and Customs Enforcement
+NATO:North Atlantic Treaty Organization
+OCONUS:Outside the Continental United States
+OSHA:Occupational Safety and Health Administration
+POTUS:President of the United States
+SCOTUS:Supreme Court of the United States
+SWAT:Special Weapons And Tactics
+WIC:Special Supplemental Nutrition Program for Women, Infants, and Children
+AIDS:Acquired immunodeficiency syndrome
+COVID:19-Coronavirus disease of 2019
+CPAP:Continuous positive airway pressure
+ICU:Intensive care unit
+NICU:Neonatal intensive care unit
+Preop:An abbreviation for “preoperative”
+Postop:An abbreviation for “postoperative”
+ROM:Range of motion
+SARS:Severe acute respiratory syndrome
+STAT:An abbreviation for “statim,” which is Latin for “immediately”
+UTI:Urinary tract infection
+ABBA:The name of the famous Swedish pop group combines the first initial of its members’ names—Agnetha, Björn, Benny, and Anni-Frid.
+Aflac:American Family Life Assurance Company of Columbus
+AT&T:An initialism for “American Telephone and Telegraph”
+BAFTA:British Academy of Film and Television Arts
+CARE:Cooperative for Assistance and Relief Everywhere
+CVS:An initialism for “Consumer Value Store”
+DARE:Drug Abuse Resistance Education
+Epcot:Experimental Prototype Community of Tomorrow
+FIFA:Fédération Internationale de Football Association
+GEICO:Government Employees Insurance Company
+H&M:An initialism for “Hennes & Mauritz”
+IKEA:Ingvar Kamprad Elmtaryd Agunnary. The first two words are the founder’s name, Invgvar Kamprad, and the second two refer to Kamprad’s family farm (Elmtaryd) and hometown (Agunnary, Sweden)
+MADD:Mothers Against Drunk Driving
+NASDAQ:National Association of Securities Dealers Automated Quotations
+Necco:New England Confectionary Company
+UNICEF:United Nations Children’s Fund
+Yahoo!:Yet Another Hierarchically Organized Oracle
