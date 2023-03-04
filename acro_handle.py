@@ -5,7 +5,7 @@ import random
 
 class Acro_Handle:
     def __init__(self):
-        self.acronyms_file_name = "./acronyms.txt"
+        self.acronyms_file_name = "./static/assets/acronyms.txt"
         self.all_acronyms = self.handle_acronyms()
 
     def handle_acronyms(self) -> dict:
