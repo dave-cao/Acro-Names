@@ -1,5 +1,5 @@
 import ast
-import json
+from datetime import date
 
 from flask import Flask, redirect, render_template, request, send_file, url_for
 
@@ -7,6 +7,11 @@ from acro_handle import Acro_Handle
 
 app = Flask(__name__)
 acro = Acro_Handle()
+
+
+@app.context_processor
+def get_year():
+    return dict(year=date.today().year)
 
 
 @app.route("/", methods=["GET", "POST"])
@@ -40,7 +45,7 @@ def random_acronym():
 @app.route("/download")
 def download_acronyms():
     path = "./acronyms.txt"
-    return send_file(path, as_attachment=True)
+    return send_file(path)
 
 
 if __name__ == "__main__":
