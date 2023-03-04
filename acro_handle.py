@@ -30,8 +30,3 @@ class Acro_Handle:
     def get_random_acronym(self) -> tuple:
         """Returns a random tuple of (acronym, description)"""
         return random.choice(list(self.all_acronyms.items()))
-
-
-acro = Acro_Handle()
-
-print(acro.get_random_acronym())
